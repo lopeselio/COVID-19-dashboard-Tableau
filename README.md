@@ -9,4 +9,4 @@ The dashboard can be found at my [Tableau Public](https://public.tableau.com/pro
 
 ### Pictures
 
-![Alt text](/path/to/img.jpg)
+![Find me here](https://github.com/lopeselio/COVID-19-dashboard-Tableau/blob/master/screenshot.PNG)
