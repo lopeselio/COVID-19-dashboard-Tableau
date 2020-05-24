@@ -6,7 +6,11 @@ The dataset has been taken from [Europa Union Open Data Portal](https://data.eur
 ### Dashboard
 The dashboard can be found at my [Tableau Public](https://public.tableau.com/profile/elio.jordan.lopes#!/vizhome/COVID-19-TRACKER-ELIO/COVID19DASHBOARD?publish=yes) profile
 
+The dashboard for analysing Trump's Tweets during coronavirus pandemic can be found [here](https://public.tableau.com/profile/elio.jordan.lopes#!/vizhome/trump_Tweets_Elio_Jordan_Lopes/TrumpTwitterDashboard?publish=yes)
 
 ### Pictures
 
 ![Find me here](https://github.com/lopeselio/COVID-19-dashboard-Tableau/blob/master/screenshot.PNG)
+
+
+![Trump](https://github.com/lopeselio/COVID-19-dashboard-Tableau/blob/master/trump_workbook.PNG)
