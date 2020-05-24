@@ -976,6 +976,10 @@
           <aggregation value='true' />
         </view>
         <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' field='[federated.0z6xhey0s7p7e71gadqfc1vugrgh].[Longitude (generated)]' field-type='quantitative' max='24829623.62514744' min='-15245393.060431048' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
+            <encoding attr='space' class='0' field='[federated.0z6xhey0s7p7e71gadqfc1vugrgh].[Latitude (generated)]' field-type='quantitative' max='18143338.145357873' min='-13480485.390269853' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
+          </style-rule>
           <style-rule element='header'>
             <format attr='background-color' value='#1b1b1b' />
           </style-rule>
@@ -1271,8 +1275,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='2100' minheight='2100' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='30' type='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98222' id='29' param='vert' type='layout-flow' w='98858' x='571' y='889'>
+            <zone h='100000' id='32' type='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98222' id='31' param='vert' type='layout-flow' w='98858' x='571' y='889'>
                 <zone fixed-size='153' h='17890' id='20' is-fixed='true' is-scaled='1' param='C:/Users/Elio/Desktop/IBMTableau/images.jpg' type='bitmap' w='14428' x='1143' y='1777'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -1715,7 +1719,7 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='26' />
+      <active id='18' />
       <simple-id uuid='{896280B1-7B95-4A82-ADBF-BF740DF17281}' />
     </window>
   </windows>
